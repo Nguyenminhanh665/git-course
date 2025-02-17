@@ -1,0 +1,5 @@
+Giải thích câu lệnh:
+- git init: dùng để khởi tạo thư mục được quả lý bởi Git
+- git add <file_name>: dùng để thêm 1 file vào vùng Staging để chuẩn bị commit (tạo ra các phiên bản) 
+- git add.: thêm toàn bộ file vào vùng Staging
+- git commit -m "message": đưa file vào Repository và trở thành các phiên bản 
