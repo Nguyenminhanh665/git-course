@@ -1,2 +1,0 @@
-Cài đặt têntên: git confic --global user.name "Tên của bạn"
-Cài đặt emailemail: git confic --global user.email "email@example.com
