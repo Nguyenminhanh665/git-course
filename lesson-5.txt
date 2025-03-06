@@ -1,0 +1,11 @@
+1. Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ gì?
+- thẻ <!DOCTYPE html>
+- thẻ <html>
+- thẻ <head>: gồm các thẻ <link>, <title>, <meta>, <script>, ...
+- thẻ <body>: gồm các thẻ <div>, <a>, <p>, <h1></h1> đến <h6></h6>, <table>, <script>, ...
+2. Cấu trúc HTML của 1 bảng
+- thead = table heading
++ tr = table row -> th = table heading (là dòng text tiêu đề in đậm của từng cột)
+- tbody = table body
++ tr -> td = table data (dữ liệu của từng ô trong bảng)
+
